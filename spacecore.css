@@ -8,8 +8,8 @@ body{
 }
 #container{
     width:850px;
-        margin: 0 auto;
-        background-color: rgba(57, 57, 57, 0.64);
+    margin: 0 auto;
+    background-color: rgba(57, 57, 57, 0.64);
 }
 .left{
     width: 470px;
