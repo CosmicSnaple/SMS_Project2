@@ -20,7 +20,8 @@ body{
     margin: 0px 10px 0px 10px;
     padding: 0px 0px 0px 3px;
     border: solid 3px;
-    border-color: #fdffa4;
+    border-color:khaki;
+    display: block;
 }
 
 .right{
@@ -31,6 +32,7 @@ body{
     float: left;
     border: solid 10px;
     border-color: #fdffa4;
+    visibility: visible;
 }
 footer{
     background-color: rgb(44, 40, 80);
