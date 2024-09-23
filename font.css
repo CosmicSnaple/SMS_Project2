@@ -10,7 +10,7 @@ text-align: center;
     font-family:'fonts';
 } 
 @font-face {
-    font-family:"Fonts";
-    src: url("./Fonts/CourierPrime-Bold.ttf");
+    font-family:"fonts";
+    src: url("./fonts/CourierPrime-Bold.ttf");
 }
 
