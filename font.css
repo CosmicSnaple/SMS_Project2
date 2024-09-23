@@ -7,13 +7,13 @@ text-align: center;
 }
 
 #Left{
-    font-family:'fonts';
+    font-family:"fonts";
 } 
 @font-face {
     font-family:"fonts";
     src: url("./fonts/CourierPrime-Regular.ttf");
     src: url("./fonts/CourierPrime-Bold.ttf");
     src: url("./fonts/CourierPrime-BoldItalic.ttf");
-    src: url("./fonts/CourierPrime-Italic.ttf")
+    src: url("./fonts/CourierPrime-Italic.ttf");
 }
 
