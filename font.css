@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+#TopRight{font-family:sans-serif; 
+color: aquamarine;
+font-size: 25px;
+text-align: center;
+}
+
+#Left{
+    font-family:'fonts';
+} 
+@font-face {
+    font-family:"Fonts";
+    src: url("./Fonts/CourierPrime-Bold.ttf");
+}
+

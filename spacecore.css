@@ -11,6 +11,18 @@ body{
     margin: 0 auto;
     background-color: rgba(57, 57, 57, 0.64);
 }
+a:link{
+    color:red;
+}
+a:hover{
+    color:blue;
+}
+a:active{
+    color:green;
+}
+a:visited{
+    color:white;
+}
 .left{
     width: 470px;
     height:1550px;
